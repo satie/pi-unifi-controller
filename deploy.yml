@@ -10,7 +10,7 @@
     - role: common
   tags: common
 
-- hosts: raspberrypi
+- hosts: kun
   roles:
     - role: unifi
   tags: unifi
